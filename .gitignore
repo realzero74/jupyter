@@ -320,3 +320,9 @@ cython_debug/
 .idea/misc.xml 제거할 예정
 .idea/modules.xml 제거할 예정
 .idea/vcs.xml 제거할 예정
+/.idea/.gitignore
+/.idea/jupyter.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
